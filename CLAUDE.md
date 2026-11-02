@@ -25,6 +25,7 @@ Parked for later (only add when Mathi says so): Mathi Dust (Mathi_TV `dust-apk`)
 5. Show Mathi a preview before publishing.
 
 ## Rules
+- Commits: author and committer `Mathi-Spartan <291456388+Mathi-Spartan@users.noreply.github.com>`. Never add Co-Authored-By, Claude-Session or any Claude/AI attribution to commits; Mathi must be the only contributor.
 - Credit: "Designed & built by Mathi", with AI (Claude) as pair programmer.
 - Be accurate about privacy and permissions; never claim something the app doesn't do.
 - Never commit signing keys or tokens.
