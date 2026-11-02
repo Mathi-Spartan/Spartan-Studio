@@ -4,7 +4,7 @@
 
 *Suvadi* means a palm-leaf manuscript, the way Tamil literature was kept for two thousand years. This app brings the whole [Project Madurai](https://www.projectmadurai.org/) collection, from the Sangam poems and Thirukkural to Bharathiyar and Kalki, into one beautiful reader. It is the Android version of the [Suvadi website](https://suvadi.vercel.app).
 
-[**⬇ Download Suvadi v1.0.50 (APK, 2.9 MB)**](https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/Suvadi-1.0.50.apk) · [Install guide](../../docs/INSTALL.md) · [All downloads](../../downloads/)
+[**⬇ Download Suvadi v1.0.51 (APK, 2.9 MB)**](https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/Suvadi-1.0.51.apk) · [Install guide](../../docs/INSTALL.md) · [All downloads](../../downloads/)
 
 <p>
   <img src="screenshots/home.jpg" width="200" alt="Home">
@@ -78,10 +78,10 @@ No accounts, no ads, no tracking. Your reading history, streak, highlights and s
 
 | | |
 |---|---|
-| Version | 1.0.50 |
+| Version | 1.0.51 |
 | Package | `dev.mathi.suvadi` |
 | Size | 2.9 MB |
-| SHA-256 | `c24bd9d49acb39a5eeaab96968b04bc1ec185c602c34b163a9d6fa899b18821c` |
+| SHA-256 | `d160313633e7732d74b459029aa72a184f69d966ec3ee0c27ec06d09078783ac` |
 | Built with | Kotlin (Android shell, Tamil speech, widget) + a hand-built HTML/CSS/JS interface, with Anek Tamil, Hind Madurai and Onest fonts |
 
 ## Credits
