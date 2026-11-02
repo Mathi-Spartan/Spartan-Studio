@@ -21,7 +21,7 @@
 | | App | What it does | Download |
 |:--:|---|---|:--:|
 | <img src="apps/uyir/screenshots/today.jpg" width="110"> | **[Uyir (உயிர்)](apps/uyir/README.md)**<br><sub>Health · v1.0.49 · 10 MB · Android 9+</sub> | Your own health dashboard for the **Fitbit Air**. Recovery, sleep and strain scores, sleep stages, trends and a private journal that shows what actually moves your HRV. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/Uyir-1.0.49.apk) |
-| <img src="assets/notes-icon.svg" width="110"> | **[Mathi Notes](apps/mathi-notes/README.md)**<br><sub>Productivity · v1.0 · 3.7 MB · Android 11+</sub> | A clean, fast notes app. Checklists, reminders, voice notes, and **scan a printed page straight into a note**. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/MathiNotes-1.0.apk) |
+| <img src="apps/mathi-notes/screenshots/list.jpg" width="110"> | **[Mathi Notes](apps/mathi-notes/README.md)**<br><sub>Productivity · v1.0 · 3.7 MB · Android 11+</sub> | A clean, fast notes app. Checklists, reminders, voice notes, and **scan a printed page straight into a note**. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/MathiNotes-1.0.apk) |
 
 > **New to installing apps from outside the Play Store?** It takes about a minute. Follow the [step-by-step install guide](docs/INSTALL.md).
 
@@ -51,6 +51,13 @@ All APK files are in the [downloads folder](downloads/), and each app's page lis
 [Full details →](apps/uyir/README.md)
 
 ### Mathi Notes, notes without the clutter
+
+<p>
+  <img src="apps/mathi-notes/screenshots/list.jpg" width="200" alt="Mathi Notes list">
+  <img src="apps/mathi-notes/screenshots/board.jpg" width="200" alt="Mathi Notes board view">
+  <img src="apps/mathi-notes/screenshots/new.jpg" width="200" alt="Create a new note">
+  <img src="apps/mathi-notes/screenshots/backup.jpg" width="200" alt="Backup and restore">
+</p>
 
 - **Notes and checklists**, pinned to the top when they matter
 - **Three views:** a clean list, cards, or a board with a column for each tag

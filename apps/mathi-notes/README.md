@@ -6,7 +6,13 @@ I wanted a notes app that opens instantly, stays out of the way and still does t
 
 [**⬇ Download Mathi Notes v1.0 (APK, 3.7 MB)**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/MathiNotes-1.0.apk) · [Install guide](../../docs/INSTALL.md) · [All downloads](../../downloads/)
 
-<!-- Screenshots: add phone screenshots to apps/mathi-notes/screenshots/ and list them here -->
+<p>
+  <img src="screenshots/list.jpg" width="220" alt="Notes list">
+  <img src="screenshots/board.jpg" width="220" alt="Board view">
+  <img src="screenshots/new.jpg" width="220" alt="New note: blank, checklist, voice, scan or template">
+  <img src="screenshots/backup.jpg" width="220" alt="Back up and restore">
+</p>
+<sub>List · Board · New note · Backup</sub>
 
 ---
 
