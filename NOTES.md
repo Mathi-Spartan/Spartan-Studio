@@ -1,4 +1,4 @@
-# Spartan Studio: notes for Claude (repo Mathi-Spartan/Spartan-Studio, formerly Spartan-Speaks---Android-Studio)
+# Spartan Studio: project notes (repo Mathi-Spartan/Spartan-Studio, formerly Spartan-Speaks---Android-Studio)
 
 Mathi's public showcase of his Android apps. Visitors should understand each app and be able to download it.
 
@@ -6,7 +6,7 @@ Mathi's public showcase of his Android apps. Visitors should understand each app
 - `README.md`: landing page (banner, app table with download buttons, a closer look, how they're built, privacy).
 - `apps/<app>/README.md` + `apps/<app>/screenshots/`: one page per app (features, data flow, requirements, permissions table, release details with SHA-256).
 - `docs/INSTALL.md`, `docs/FAQ.md`: for non-technical visitors.
-- APKs live in `downloads/` as `<AppName>-<version>.apk`; buttons link to `https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/<file>`. (Claude sessions can't create GitHub Releases; Mathi can switch to Releases himself later.)
+- APKs live in `downloads/` as `<AppName>-<version>.apk`; buttons link to `https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/<file>`. (Automated sessions can't create GitHub Releases; Mathi can switch to Releases himself later.)
 
 ## Apps (Nov 2026)
 | App | Package | File | Source |
@@ -25,7 +25,7 @@ Parked for later (only add when Mathi says so): Mathi Dust (Mathi_TV `dust-apk`)
 5. Show Mathi a preview before publishing.
 
 ## Rules
-- Commits: author and committer `Mathi-Spartan <291456388+Mathi-Spartan@users.noreply.github.com>`. Never add Co-Authored-By, Claude-Session or any Claude/AI attribution to commits; Mathi must be the only contributor.
-- Credit: "Designed & built by Mathi", with AI (Claude) as pair programmer.
+- Commits: author and committer `Mathi-Spartan <291456388+Mathi-Spartan@users.noreply.github.com>`. Never add co-author or AI attribution lines to commits; Mathi must be the only contributor.
+- Credit: "Designed & built by Mathi", with an AI pair programmer.
 - Be accurate about privacy and permissions; never claim something the app doesn't do.
 - Never commit signing keys or tokens.

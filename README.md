@@ -96,7 +96,7 @@ All APK files are in the [downloads folder](downloads/), and each app's page lis
 
 ## 🤖 How these apps are built
 
-I'm a developer, and these apps are built **with AI as my pair programmer** ([Claude](https://claude.ai) by Anthropic). The ideas, the design calls and the testing are mine. The AI helps me move from idea to working app much faster than I could alone.
+I'm a developer, and these apps are built **with an AI pair programmer**. The ideas, the design calls and the testing are mine. The AI helps me move from idea to working app much faster than I could alone.
 
 Every app follows the same path:
 
