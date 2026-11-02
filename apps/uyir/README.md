@@ -4,7 +4,7 @@
 
 *Uyir* means "life" in Tamil. I bought a Google Fitbit Air, didn't enjoy the stock Google Health app, and designed the dashboard I actually wanted to open every morning.
 
-[**⬇ Download Uyir v1.0.49 (APK, 10 MB)**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/releases/download/uyir-v1.0.49/Uyir-1.0.49.apk) · [Install guide](../../docs/INSTALL.md) · [All releases](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/releases)
+[**⬇ Download Uyir v1.0.49 (APK, 10 MB)**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/Uyir-1.0.49.apk) · [Install guide](../../docs/INSTALL.md) · [All downloads](../../downloads/)
 
 <p>
   <img src="screenshots/today.jpg" width="220" alt="Home">

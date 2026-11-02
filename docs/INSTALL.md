@@ -4,7 +4,7 @@ These apps aren't on the Play Store, so you install them directly from an **APK 
 
 ## On your Android phone
 
-1. **Download the APK.** Tap the **⬇ Download APK** button on the [main page](../README.md), or open the [Releases page](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/releases) and tap the `.apk` file under **Assets**.
+1. **Download the APK.** Tap the **⬇ Download APK** button on the [main page](../README.md), or open the [downloads folder](../downloads/), tap the `.apk` file, then tap **Download raw file** (the ⬇ icon).
 2. **Open it.** When the download finishes, tap the notification, or open your **Files** / **Downloads** app and tap the file.
 3. **Allow installs from this source (first time only).** Android will say something like *"For your security, your phone is not allowed to install unknown apps from this source."*
    - Tap **Settings**

@@ -4,7 +4,7 @@
 
 I wanted a notes app that opens instantly, stays out of the way and still does the useful things: reminders, checklists, voice, and turning a printed page into text.
 
-[**⬇ Download Mathi Notes v1.0 (APK, 3.7 MB)**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/releases/download/mathi-notes-v1.0/MathiNotes-1.0.apk) · [Install guide](../../docs/INSTALL.md) · [All releases](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/releases)
+[**⬇ Download Mathi Notes v1.0 (APK, 3.7 MB)**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/MathiNotes-1.0.apk) · [Install guide](../../docs/INSTALL.md) · [All downloads](../../downloads/)
 
 <!-- Screenshots: add phone screenshots to apps/mathi-notes/screenshots/ and list them here -->
 
