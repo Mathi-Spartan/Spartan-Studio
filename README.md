@@ -86,7 +86,7 @@ Every app follows the same path:
 3. **Approval:** nothing gets built until I'm happy with how it looks.
 4. **Build:** native Android apps (Kotlin, Jetpack Compose or a WebView-based UI), compiled and signed into an APK.
 5. **Real-world testing:** I use every app on my own phone before it's published here.
-6. **Release:** the tested APK is published on this repo's Releases page.
+6. **Release:** the tested APK is published here for anyone to download.
 
 ---
 
