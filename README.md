@@ -21,7 +21,7 @@
 | | App | What it does | Download |
 |:--:|---|---|:--:|
 | <img src="apps/uyir/screenshots/today.jpg" width="110"> | **[Uyir (உயிர்)](apps/uyir/README.md)**<br><sub>Health · v1.0.49 · 10 MB · Android 9+</sub> | Your own health dashboard for the **Fitbit Air**. Recovery, sleep and strain scores, sleep stages, trends and a private journal that shows what actually moves your HRV. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/Uyir-1.0.49.apk) |
-| <img src="apps/mathi-notes/screenshots/list.jpg" width="110"> | **[Mathi Notes](apps/mathi-notes/README.md)**<br><sub>Productivity · v1.0 · 3.7 MB · Android 11+</sub> | A clean, fast notes app. Checklists, reminders, voice notes, and **scan a printed page straight into a note**. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/MathiNotes-1.0.apk) |
+| <img src="apps/kurippu/screenshots/list.jpg" width="110"> | **[Kurippu (குறிப்பு)](apps/kurippu/README.md)**<br><sub>Productivity · v1.0 · 3.7 MB · Android 11+</sub> | A clean, fast notes app. Checklists, reminders, voice notes, and **scan a printed page straight into a note**. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/Kurippu-1.0.apk) |
 
 > **New to installing apps from outside the Play Store?** It takes about a minute. Follow the [step-by-step install guide](docs/INSTALL.md).
 
@@ -50,13 +50,15 @@ All APK files are in the [downloads folder](downloads/), and each app's page lis
 
 [Full details →](apps/uyir/README.md)
 
-### Mathi Notes, notes without the clutter
+### Kurippu (குறிப்பு), notes without the clutter
+
+*Kurippu* means "a note" in Tamil.
 
 <p>
-  <img src="apps/mathi-notes/screenshots/list.jpg" width="200" alt="Mathi Notes list">
-  <img src="apps/mathi-notes/screenshots/board.jpg" width="200" alt="Mathi Notes board view">
-  <img src="apps/mathi-notes/screenshots/new.jpg" width="200" alt="Create a new note">
-  <img src="apps/mathi-notes/screenshots/backup.jpg" width="200" alt="Backup and restore">
+  <img src="apps/kurippu/screenshots/list.jpg" width="200" alt="Kurippu notes list">
+  <img src="apps/kurippu/screenshots/board.jpg" width="200" alt="Kurippu board view">
+  <img src="apps/kurippu/screenshots/new.jpg" width="200" alt="Create a new note">
+  <img src="apps/kurippu/screenshots/backup.jpg" width="200" alt="Backup and restore">
 </p>
 
 - **Notes and checklists**, pinned to the top when they matter
@@ -67,7 +69,7 @@ All APK files are in the [downloads folder](downloads/), and each app's page lis
 - **Templates** for a daily journal, meeting notes, a packing list and more
 - **Search, share, back up and restore**
 
-[Full details →](apps/mathi-notes/README.md)
+[Full details →](apps/kurippu/README.md)
 
 ---
 

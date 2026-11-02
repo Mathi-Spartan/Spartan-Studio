@@ -12,7 +12,7 @@ Mathi's public showcase of his Android apps. Visitors should understand each app
 | App | Package | File | Source |
 |---|---|---|---|
 | Uyir | `dev.mathi.uyir` | `Uyir-1.0.49.apk` | Mathi_TV repo, branch `uyir-health` (CI publishes APK to `uyir-apk`) |
-| Mathi Notes | `com.mathi.notes` | `MathiNotes-1.0.apk` | not on GitHub; APK supplied by Mathi |
+| Kurippu (குறிப்பு), formerly Mathi Notes | `com.mathi.notes` | `Kurippu-1.0.apk` | not on GitHub; APK supplied by Mathi. The v1.0 APK still shows the label "Mathi Notes"; a rebuild should rename it to Kurippu, keeping the package name and signing key so it updates in place |
 
 Parked for later (only add when Mathi says so): Mathi Dust (Mathi_TV `dust-apk`), Thodar, and others.
 

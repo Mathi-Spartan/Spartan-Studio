@@ -1,10 +1,12 @@
-# Mathi Notes
+# Kurippu (குறிப்பு)
 
 **A clean, fast notes app for Android.** Designed & built by Mathi.
 
+*Kurippu* means "a note" in Tamil.
+
 I wanted a notes app that opens instantly, stays out of the way and still does the useful things: reminders, checklists, voice, and turning a printed page into text.
 
-[**⬇ Download Mathi Notes v1.0 (APK, 3.7 MB)**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/MathiNotes-1.0.apk) · [Install guide](../../docs/INSTALL.md) · [All downloads](../../downloads/)
+[**⬇ Download Kurippu v1.0 (APK, 3.7 MB)**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/Kurippu-1.0.apk) · [Install guide](../../docs/INSTALL.md) · [All downloads](../../downloads/)
 
 <p>
   <img src="screenshots/list.jpg" width="220" alt="Notes list">
@@ -13,6 +15,8 @@ I wanted a notes app that opens instantly, stays out of the way and still does t
   <img src="screenshots/backup.jpg" width="220" alt="Back up and restore">
 </p>
 <sub>List · Board · New note · Backup</sub>
+
+> **Heads-up:** in this version the app still shows its earlier name, *Mathi Notes*, on your phone. The next update will carry the Kurippu name, and it installs over this one.
 
 ---
 
@@ -57,7 +61,7 @@ I wanted a notes app that opens instantly, stays out of the way and still does t
 
 ## Permissions, and why
 
-| Permission | Why Mathi Notes needs it |
+| Permission | Why Kurippu needs it |
 |---|---|
 | Notifications | To show your reminders |
 | Exact alarms | So reminders ring at exactly the time you set |

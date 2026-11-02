@@ -16,7 +16,7 @@ No. There are no accounts and no servers. Your notes and health data stay on you
 I design each app (the idea, the look and every decision) and build it with an AI pair programmer, [Claude](https://claude.ai) by Anthropic, which helps write and review the code. I approve every design and test every build on my own phone before it's published.
 
 **Which phones are supported?**
-Uyir needs Android 9+, and Mathi Notes needs Android 11+. They're tested on a CMF Phone Pro 2.
+Uyir needs Android 9+, and Kurippu needs Android 11+. They're tested on a CMF Phone Pro 2.
 
 **I found a bug or have an idea.**
 Please [open an issue](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/issues) and tell me your phone model and Android version.
