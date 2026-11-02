@@ -6,7 +6,7 @@
 
 I wanted a notes app that opens instantly, stays out of the way and still does the useful things: reminders, checklists, voice, and turning a printed page into text.
 
-[**⬇ Download Kurippu v1.0 (APK, 3.7 MB)**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/Kurippu-1.0.apk) · [Install guide](../../docs/INSTALL.md) · [All downloads](../../downloads/)
+[**⬇ Download Kurippu v1.0 (APK, 3.7 MB)**](https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/Kurippu-1.0.apk) · [Install guide](../../docs/INSTALL.md) · [All downloads](../../downloads/)
 
 <p>
   <img src="screenshots/list.jpg" width="220" alt="Notes list">

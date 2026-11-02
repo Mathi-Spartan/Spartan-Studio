@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Spartan Speaks: Android apps designed and built by Mathi" width="100%">
+  <img src="assets/banner.svg" alt="Spartan Studio: Android apps designed and built by Mathi" width="100%">
 </p>
 
 <p align="center">
@@ -20,8 +20,9 @@
 
 | | App | What it does | Download |
 |:--:|---|---|:--:|
-| <img src="apps/uyir/screenshots/today.jpg" width="110"> | **[Uyir (உயிர்)](apps/uyir/README.md)**<br><sub>Health · v1.0.49 · 10 MB · Android 9+</sub> | Your own health dashboard for the **Fitbit Air**. Recovery, sleep and strain scores, sleep stages, trends and a private journal that shows what actually moves your HRV. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/Uyir-1.0.49.apk) |
-| <img src="apps/kurippu/screenshots/list.jpg" width="110"> | **[Kurippu (குறிப்பு)](apps/kurippu/README.md)**<br><sub>Productivity · v1.0 · 3.7 MB · Android 11+</sub> | A clean, fast notes app. Checklists, reminders, voice notes, and **scan a printed page straight into a note**. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/Kurippu-1.0.apk) |
+| <img src="apps/uyir/screenshots/today.jpg" width="110"> | **[Uyir (உயிர்)](apps/uyir/README.md)**<br><sub>Health · v1.0.49 · 10 MB · Android 9+</sub> | Your own health dashboard for the **Fitbit Air**. Recovery, sleep and strain scores, sleep stages, trends and a private journal that shows what actually moves your HRV. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/Uyir-1.0.49.apk) |
+| <img src="apps/kurippu/screenshots/list.jpg" width="110"> | **[Kurippu (குறிப்பு)](apps/kurippu/README.md)**<br><sub>Productivity · v1.0 · 3.7 MB · Android 11+</sub> | A clean, fast notes app. Checklists, reminders, voice notes, and **scan a printed page straight into a note**. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/Kurippu-1.0.apk) |
+| <img src="apps/suvadi/screenshots/home.jpg" width="110"> | **[Suvadi (சுவடி)](apps/suvadi/README.md)**<br><sub>Books · v1.0.50 · 2.9 MB · Android 8+</sub> | A modern **Tamil library**: 1,281 books from Project Madurai, Thanglish search, an offline reader with **Tamil read-aloud**, a literary map, and a Kural of the day widget. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/Suvadi-1.0.50.apk) |
 
 > **New to installing apps from outside the Play Store?** It takes about a minute. Follow the [step-by-step install guide](docs/INSTALL.md).
 
@@ -71,6 +72,26 @@ All APK files are in the [downloads folder](downloads/), and each app's page lis
 
 [Full details →](apps/kurippu/README.md)
 
+### Suvadi (சுவடி), the Tamil library in your pocket
+
+*Suvadi* means a palm-leaf manuscript. It is 1,281 Tamil books, from the Sangam poems and Thirukkural to Bharathiyar and Kalki, in one reader.
+
+<p>
+  <img src="apps/suvadi/screenshots/home.jpg" width="200" alt="Suvadi home">
+  <img src="apps/suvadi/screenshots/library.jpg" width="200" alt="Suvadi library">
+  <img src="apps/suvadi/screenshots/reader.jpg" width="200" alt="Suvadi reader">
+  <img src="apps/suvadi/screenshots/map.jpg" width="200" alt="Literary map of Tamil Nadu">
+</p>
+
+- **Search in Tamil, English or Thanglish:** `kural` finds திருக்குறள்
+- **Read inside the app** in day, sepia or night themes, and **listen in Tamil**
+- **Offline:** every book you open stays on your phone
+- **Highlight** and **share any verse as an image**
+- **Explore:** a journey through 7 eras, a literary map of Tamil Nadu, and the Palayakkarar Resistance in Tamil and English
+- **Streaks, badges**, and a **Kural of the day** home-screen widget
+
+[Full details →](apps/suvadi/README.md)
+
 ---
 
 ## 🤖 How these apps are built
@@ -108,5 +129,5 @@ More apps are on the way, and each will be added here once it has passed daily u
 
 <p align="center">
   Designed &amp; built by <b>Mathi</b> · <a href="https://github.com/Mathi-Spartan">@Mathi-Spartan</a><br>
-  <sub>Found a bug or have an idea? <a href="https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/issues">Open an issue</a>.</sub>
+  <sub>Found a bug or have an idea? <a href="https://github.com/Mathi-Spartan/Spartan-Studio/issues">Open an issue</a>.</sub>
 </p>

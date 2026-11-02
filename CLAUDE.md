@@ -1,4 +1,4 @@
-# Spartan Speaks: notes for Claude
+# Spartan Studio: notes for Claude (repo Mathi-Spartan/Spartan-Studio, formerly Spartan-Speaks---Android-Studio)
 
 Mathi's public showcase of his Android apps. Visitors should understand each app and be able to download it.
 
@@ -6,12 +6,13 @@ Mathi's public showcase of his Android apps. Visitors should understand each app
 - `README.md`: landing page (banner, app table with download buttons, a closer look, how they're built, privacy).
 - `apps/<app>/README.md` + `apps/<app>/screenshots/`: one page per app (features, data flow, requirements, permissions table, release details with SHA-256).
 - `docs/INSTALL.md`, `docs/FAQ.md`: for non-technical visitors.
-- APKs live in `downloads/` as `<AppName>-<version>.apk`; buttons link to `https://github.com/Mathi-Spartan/Spartan-Speaks---Android-Studio/raw/main/downloads/<file>`. (Claude sessions can't create GitHub Releases; Mathi can switch to Releases himself later.)
+- APKs live in `downloads/` as `<AppName>-<version>.apk`; buttons link to `https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/<file>`. (Claude sessions can't create GitHub Releases; Mathi can switch to Releases himself later.)
 
 ## Apps (Nov 2026)
 | App | Package | File | Source |
 |---|---|---|---|
 | Uyir | `dev.mathi.uyir` | `Uyir-1.0.49.apk` | Mathi_TV repo, branch `uyir-health` (CI publishes APK to `uyir-apk`) |
+| Suvadi (சுவடி) | `dev.mathi.suvadi` | `Suvadi-1.0.50.apk` | Mathi_TV repo, branch `suvadi-android` (CI publishes APK to `suvadi-apk`); data copied from the Suvadi website repo |
 | Kurippu (குறிப்பு), formerly Mathi Notes | `com.mathi.notes` | `Kurippu-1.0.apk` | not on GitHub; APK supplied by Mathi. The v1.0 APK still shows the label "Mathi Notes"; a rebuild should rename it to Kurippu, keeping the package name and signing key so it updates in place |
 
 Parked for later (only add when Mathi says so): Mathi Dust (Mathi_TV `dust-apk`), Thodar, and others.

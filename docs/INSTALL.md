@@ -1,4 +1,4 @@
-# How to install an app from Spartan Speaks
+# How to install an app from Spartan Studio
 
 These apps aren't on the Play Store, so you install them directly from an **APK file**. It's safe and takes about a minute.
 
