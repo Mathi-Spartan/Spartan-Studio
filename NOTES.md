@@ -12,7 +12,7 @@ Mathi's public showcase of his Android apps. Visitors should understand each app
 | App | Package | File | Source |
 |---|---|---|---|
 | Uyir | `dev.mathi.uyir` | `Uyir-1.0.49.apk` | Spartan_TV_Apps repo (private), branch `phone-apps`, folder `uyir/` (CI builds the APK into `uyir/release/`) |
-| Suvadi (சுவடி) | `dev.mathi.suvadi` | `Suvadi-1.0.51.apk` | Spartan_TV_Apps repo (private), branch `phone-apps`, folder `suvadi/` (CI builds the APK into `suvadi/release/`); data copied from the Suvadi website repo |
+| Suvadi (சுவடி) | `dev.mathi.suvadi` | `Suvadi-1.0.51.apk` | Spartan_TV_Apps repo (private), branch `phone-apps`, folder `suvadi/` (CI builds the APK into `suvadi/release/`); data copied from the Suvadi website (Spartan_Web_Apps, branch `personal-projects`, folder `suvadi/`) |
 | Kurippu (குறிப்பு), formerly Mathi Notes | `com.mathi.notes` | `Kurippu-1.0.apk` | not on GitHub; APK supplied by Mathi. The v1.0 APK still shows the label "Mathi Notes"; a rebuild should rename it to Kurippu, keeping the package name and signing key so it updates in place |
 
 Parked for later (only add when Mathi says so): Mathi Dust (Spartan_TV_Apps branch `launchers`, `mathi-dust/release/`), Thodar, and others.
