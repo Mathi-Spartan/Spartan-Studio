@@ -16,7 +16,12 @@ I wanted a notes app that opens instantly, stays out of the way and still does t
 - **Notes and checklists:** tick items off as you go, and mark them not done again
 - **Pin to top** the notes that matter right now
 - **Templates** to start fast: Daily journal, Meeting notes, Packing list, Ideas, Decisions, or a blank page
-- **Tags** to keep notes organised
+- **Tags** to keep notes organised (Work, Personal…)
+
+### 👀 Three ways to see your notes
+- **Notes:** a clean list grouped by Yesterday, This week and older
+- **Cards:** your notes as a grid of cards
+- **Board:** columns by tag, like a mini kanban board
 
 ### ⏰ Remind
 - **Remind me** on any note: today, tomorrow or any time you pick
@@ -32,7 +37,8 @@ I wanted a notes app that opens instantly, stays out of the way and still does t
 ### 🔎 Find and keep
 - **Search** across all your notes
 - **Share** any note to another app
-- **Back up and restore** your notes from *Backup and settings*
+- **Back up** every note to one file you can keep in Google Drive, and **restore** it anytime
+- Notes are also included in your phone's own Google backup, so they come back if you reinstall or change phones
 
 ---
 

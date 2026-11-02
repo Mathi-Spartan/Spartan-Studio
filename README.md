@@ -53,6 +53,7 @@ All downloads live on the [Releases page](https://github.com/Mathi-Spartan/Spart
 ### Mathi Notes, notes without the clutter
 
 - **Notes and checklists**, pinned to the top when they matter
+- **Three views:** a clean list, cards, or a board with a column for each tag
 - **Reminders** that ring on time and survive a phone restart
 - **Voice notes:** speak and it types for you
 - **Scan a page:** point the camera at printed text and it becomes an editable note, read on the phone
