@@ -108,8 +108,8 @@ Every app follows the same path:
 2. **Mockups:** interactive design prototypes, often several rounds, until it feels right.
 3. **Approval:** nothing gets built until I'm happy with how it looks.
 4. **Build:** native Android apps (Kotlin, Jetpack Compose or a WebView-based UI), compiled and signed into an APK.
-5. **Real-world testing:** I use every app on my own phone before it's published here.
-6. **Release:** the tested APK is published here for anyone to download.
+5. **Real-world testing:** every app is built and tested in a private workshop repository, and I use it on my own phone first.
+6. **Release:** only once I've confirmed it's ready, the tested APK is published here for anyone to download.
 
 ---
 

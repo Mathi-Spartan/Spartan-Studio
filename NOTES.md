@@ -17,6 +17,9 @@ Mathi's public showcase of his Android apps. Visitors should understand each app
 
 Parked for later (only add when Mathi says so): Mathi Dust (Spartan_TV_Apps branch `launchers`, `mathi-dust/release/`), Thodar, and others.
 
+## The rule: "Android - 2026"
+Every new Android app request starts with the keyword **Android - 2026**. The app is built in the private Mathi-Spartan/Spartan_TV_Apps repo first (phone apps on branch `phone-apps`). It comes here **only after Mathi has tested it on his phone and confirmed it**. Each time, update the READMEs in both repos: here the app table, the app's page and this file; in Spartan_TV_Apps the app's "Also published in" column.
+
 ## Adding an app
 All code and signing keys live in the private Mathi-Spartan/Spartan_TV_Apps repo. Copy only the APK, README and screenshots here, never `signing/` or workflows; run `bash tools/check-public-safe.sh <folder>` from Spartan_TV_Apps (`main`) first. See SIGNING.md there.
 
