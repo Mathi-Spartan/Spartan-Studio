@@ -21,7 +21,7 @@
 | | App | What it does | Download |
 |:--:|---|---|:--:|
 | <img src="apps/uyir/screenshots/today.jpg" width="110"> | **[Uyir (உயிர்)](apps/uyir/README.md)**<br><sub>Health · v1.0.49 · 10 MB · Android 9+</sub> | Your own health dashboard for the **Fitbit Air**. Recovery, sleep and strain scores, sleep stages, trends and a private journal that shows what actually moves your HRV. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/Uyir-1.0.49.apk) |
-| <img src="apps/kurippu/screenshots/list.jpg" width="110"> | **[Kurippu (குறிப்பு)](apps/kurippu/README.md)**<br><sub>Productivity · v1.0 · 3.7 MB · Android 11+</sub> | A clean, fast notes app. Checklists, reminders, voice notes, and **scan a printed page straight into a note**. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/Kurippu-1.0.apk) |
+| <img src="apps/kurippu/screenshots/list.jpg" width="110"> | **[Kurippu (குறிப்பு)](apps/kurippu/README.md)**<br><sub>Productivity · v1.1.1 · 4.2 MB · Android 11+</sub> | A clean, fast notes app. Checklists, reminders, voice notes, and **scan a printed page straight into a note**. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/Kurippu-1.1.1.apk) |
 | <img src="apps/suvadi/screenshots/home.jpg" width="110"> | **[Suvadi (சுவடி)](apps/suvadi/README.md)**<br><sub>Books · v1.0.51 · 2.9 MB · Android 8+</sub> | A modern **Tamil library**: 1,281 books from Project Madurai, Thanglish search, an offline reader with **Tamil read-aloud**, a literary map, and a Kural of the day widget. | [**⬇ Download APK**](https://github.com/Mathi-Spartan/Spartan-Studio/raw/main/downloads/Suvadi-1.0.51.apk) |
 
 > **New to installing apps from outside the Play Store?** It takes about a minute. Follow the [step-by-step install guide](docs/INSTALL.md).
@@ -53,7 +53,7 @@ All APK files are in the [downloads folder](downloads/), and each app's page lis
 
 ### Kurippu (குறிப்பு), notes without the clutter
 
-*Kurippu* means "a note" in Tamil.
+*Kurippu* means "a note" in Tamil. Version 1.1 is a fresh rebuild of the app that used to be called Mathi Notes, made ready for Google Play.
 
 <p>
   <img src="apps/kurippu/screenshots/list.jpg" width="200" alt="Kurippu notes list">
@@ -68,7 +68,7 @@ All APK files are in the [downloads folder](downloads/), and each app's page lis
 - **Voice notes:** speak and it types for you
 - **Scan a page:** point the camera at printed text and it becomes an editable note, read on the phone
 - **Templates** for a daily journal, meeting notes, a packing list and more
-- **Search, share, back up and restore**
+- **Search, share, back up and restore**, including backups from the old Mathi Notes
 
 [Full details →](apps/kurippu/README.md)
 
